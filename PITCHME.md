@@ -24,7 +24,8 @@
 
 - *In welchem Land liegt diese Stadt?*
 
-@snap[west]
+@snap[south-west]
+
 Zürich  ist eine Stadt,  Hauptort des gleichnamigen Kantons Zürich. Die Stadt liegt im östlichen Schweizer Mittelland, an der Limmat am Ausfluss des Zürichsees. 
 
 
