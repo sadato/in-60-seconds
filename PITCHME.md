@@ -16,7 +16,7 @@
 
 
 
----?color=#00FFFF
+---?color=#COCOCO
 
 ## Introduktion
 
@@ -32,7 +32,7 @@
 Zürich  ist eine Stadt,  Hauptort des gleichnamigen Kantons Zürich. Die Stadt liegt im östlichen Schweizer Mittelland, an der Limmat am Ausfluss des Zürichsees. 
 
 
----?color=#00FFFF
+---?color=#COCOCO
 
 
 - *Vie viele Bewohner wohnen da?*
@@ -41,7 +41,7 @@ Zürich  ist eine Stadt,  Hauptort des gleichnamigen Kantons Zürich. Die Stadt 
 
 428.737 Bewohner
 
----?color=#00FFFF
+---?color=#COCOCO
 
 - *Wie gross ist die Stadt?*
 
@@ -65,7 +65,7 @@ Das Kantonsparlament ist der Kantonsrat mit seinen 180 Mitgliedern. Sie werden j
 Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Stadt und der Kanton haben auch ihre eigenen Gerichte.
 
 
----?color=#00FFFF
+---?color=#COCOCO
 
 - *Welche Plätze, Parke und Denkmäler sind wichtig zu besichtigen und warum?*
 
