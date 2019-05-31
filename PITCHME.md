@@ -182,7 +182,7 @@ Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entwo
 
 ---
 
-#### Beispiele:
+## Beispiele:
 
 - Grüezi = Guten Tag
 - Merci= Danke
@@ -198,7 +198,7 @@ Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entwo
 
 ---
 
-Berühmte Personen
+# Berühmte Personen
 
 ---
 
