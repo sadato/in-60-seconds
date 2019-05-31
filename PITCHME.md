@@ -1,3 +1,5 @@
+--?image=assets/img/zurich
+
 # Zürich
 
 ---
