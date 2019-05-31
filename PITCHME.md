@@ -20,6 +20,8 @@
 
 ## Introduktion
 
+---
+
 
 
 - *In welchem Land liegt diese Stadt?*
@@ -99,10 +101,15 @@ Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Sta
 
 
 
- @img[shadow](assets/img/limmat.jpg)---
+ @img[shadow](assets/img/limmat.jpg)
+ 
+ 
+ ---
 
 
 #### Typischen Spezialitäten
+
+---
 
 In Zürich werden verschiedene typischen spezialitäten gefindet. Die beliebtest sind:
  
@@ -163,9 +170,16 @@ Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entwo
 ![](assets/img/wiedkerli.jpg)
 
 
+
+
 ---?color=#D3D3D3
 
 - *Wie spricht man Deutsch  in dieser Stadt? Typischen Wörter*
+
+---
+
+
+# Sprache
 
 ---
 
@@ -182,6 +196,10 @@ Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entwo
 
 
 - *Haben berühmte Personen schon in dieser Stadt gelebt? Wenn ja, wer?*
+
+---
+
+Berühmte Personen
 
 ---
 
