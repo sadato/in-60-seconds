@@ -20,7 +20,7 @@
 
 ## Introduktion
 
-
+@snap[west]
 
 - *In welchem Land liegt diese Stadt?*
 
@@ -32,6 +32,7 @@ Zürich  ist eine Stadt,  Hauptort des gleichnamigen Kantons Zürich. Die Stadt 
 
 428.737
 
+---
 
 - *Wie gross ist die Stadt?*
 
