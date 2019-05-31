@@ -20,6 +20,10 @@ theme-override: assets/css/PITCHME.css
 logo : assets/img/logo.png
 logo-postion : top-left
 
+# Behavior
+transition : concave
+published : true
+
 #
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
