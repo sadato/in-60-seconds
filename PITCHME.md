@@ -54,7 +54,21 @@ Die Stadt Zürich ist mit 409'241 Einwohnern die grösste Stadt der Schweiz mit 
 Das Kantonsparlament ist der Kantonsrat mit seinen 180 Mitgliedern. Sie werden je nach Einwohnerzahl in den Bezirken gewählt. Das Stadtparlament heißt Gemeinderat und hat 125 Mitglieder. Sie werden je nach Einwohnerzahl in den Quartieren gewählt. Beide halten ihre Sitzungen im Rathaus an der Limmat ab. 
 Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Stadt und der Kanton haben auch ihre eigenen Gerichte.
 
+
 ---
+
+- *Welche Plätze, Parke und Denkmäler sind wichtig zu besichtigen und warum?*
+
+- **Lindenhof** - Das ist ein wichtiger Platz. Auf diesem Platz gibt es alte Ruinen und die Leute können die Stadt von oben sehen.
+
+
+- **Landesmuseum Zürick** - Das ist ein wichtiges historisch-kulturelle Museum mit vielen Schweizer Kunstwerke und Objekte.
+
+
+- **Kunsthaus** - In diesem Museum gibt es viele Werke von großer Künstler des 19. und 20. Jahrhunderts, wie Picasso, Cézanne und Monet.
+
+---
+
 
 @title[Customize Slide Layout]
 
