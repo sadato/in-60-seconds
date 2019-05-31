@@ -42,6 +42,17 @@ Die Stadt Zürich ist mit 409'241 Einwohnern die grösste Stadt der Schweiz mit 
 
 ---
 
+  
+## Regierung
+
+
+@img[shadow](assets/img/kantonsrat.jpeg)
+
+
+
+
+---
+
 @title[Customize Slide Layout]
 
 @snap[west span-50]
