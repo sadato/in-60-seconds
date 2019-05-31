@@ -1,6 +1,6 @@
 ---?image=assets/img/zurich
 
-@snap[north]
+
 # Zürich
 
 ---
