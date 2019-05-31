@@ -37,7 +37,9 @@ Zürich  ist eine Stadt,  Hauptort des gleichnamigen Kantons Zürich. Die Stadt 
 
 - *Vie viele Bewohner wohnen da?*
 
-428.737
+---
+
+428.737 Bewohner
 
 ---?color=#00FFFF
 
