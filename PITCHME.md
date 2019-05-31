@@ -48,8 +48,11 @@ Die Stadt Zürich ist mit 409'241 Einwohnern die grösste Stadt der Schweiz mit 
 
 @img[shadow](assets/img/kantonsrat.jpeg)
 
+---
 
-
+## Das Parlament
+Das Kantonsparlament ist der Kantonsrat mit seinen 180 Mitgliedern. Sie werden je nach Einwohnerzahl in den Bezirken gewählt. Das Stadtparlament heißt Gemeinderat und hat 125 Mitglieder. Sie werden je nach Einwohnerzahl in den Quartieren gewählt. Beide halten ihre Sitzungen im Rathaus an der Limmat ab. 
+Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Stadt und der Kanton haben auch ihre eigenen Gerichte.
 
 ---
 
