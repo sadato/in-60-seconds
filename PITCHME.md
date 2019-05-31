@@ -118,8 +118,7 @@ Dieses Gericht wird aus dünn geschnittenen Streifen gebratenen Kalbfleischs in 
 
 ---
 
-  
-![](assets/img/geschnet.jpg)
+  ![](assets/img/geschnet.jpg)
 
 
 
