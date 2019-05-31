@@ -99,9 +99,328 @@ Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Sta
 
 
 
- @img[shadow](assets/img/limmat.jpg)
+ @img[shadow](assets/img/limmat.jpg)---
+
+
+#### Typischen Spezialitäten
+
+In Zürich werden verschiedene typischen spezialitäten gefindet. Die beliebtest sind:
+ 
+- **Zürich Geschnetzeltes:**
+Dieses Gericht wird aus dünn geschnittenen Streifen gebratenen Kalbfleischs in einer köstlichen cremigen Sauce zubereitet. Es wird normalerweise mit Rösti serviert.
+
+---
+
+ 
+
+
+#### Typischen Spezialitäten
+
+In Zürich werden verschiedene typischen spezialitäten gefindet. Die beliebtest sind:
+ 
+- **Zürich Geschnetzeltes:**
+Dieses Gericht wird aus dünn geschnittenen Streifen gebratenen Kalbfleischs in einer köstlichen cremigen Sauce zubereitet. Es wird normalerweise mit Rösti serviert.
+
+---
+
+  
+![](assets/img/geschnet.jpg)
+
+
+
+---
+ 
+- **Bircher Muesli:**
+Birchermüsli oder einfach Müsli wurde 1900 von Dr. Max Bircher-Benner gegründet. Es war das Rezept für eine gesunde Ernährung. Das Müsli ist heute auf der ganzen Welt sehr beliebt und hat zahlreiche Variationen. Die Zutaten des Originalrezepts sind Hafer, Wasser, geriebener Apfel, Nüsse, Zitronensaft und Kondensmilch.
+
+---
+
+![](assets/img/muesli.jpg)
+
+---
+ 
+- **Tirggel:**
+Tirggel ist ein hartes und dünnes Gebäck aus Honig, Ingwer, Anis, Koriander, Rosenwasser und Mehl. Die Oberfläche ist mit historischen Motiven aus der Vergangenheit von Zürich verziert. Es ist sehr beliebt während der Weihnachtszeit.
+
+![](assets/img/tirgell.jpg)
+
+
+---
+
+
+ 
+- **Straumann Hüppen:**
+Hüppen sind köstliche Waffelröllchen, die oft mit Schokoladencreme gefüllt sind.
+
+
+
+
+![](assets/img/huppen.jpg)
+
+
+
+---
+ 
+- **Wiedikerli:**
+Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entworfen. Für die Originalversion stellt die Metzgerei mageres Schweinefleisch mit gebratenen Zwiebeln, Knoblauch und Petersilie her.
+
+---
+
+
+
+![](assets/img/wiedkerli.jpg)
+
+
+
+
+
+---?color=#D3D3D3
+
+- *Wie spricht man Deutsch  in dieser Stadt? Typischen Wörter*
+
+---
+
+#### Beispiele:
+
+- Grüezi = Guten Tag
+- Merci= Danke
+- Adie= tschüss
+- ein Fötzeli= ein kleines Stück Papier
+
+
+
+---?color=#D3D3D3
+
+
+- *Haben berühmte Personen schon in dieser Stadt gelebt? Wenn ja, wer?*
+
+---
+
+- **Paul Thomas Mann** ist ein Romantik  Schriftsteller, er sind an 1875 geboren und in 1936 hat er zu Zürich geändert. Er hat in Zürich von 1936   nach 1955 gelebt. Thomas war wichtig für Literatur weil er ein nobel prize gewonnen hat. 
+
+- **James Joyce** war auch ein Schriftsteller, er war in 1882 geboren in Dublin, er hat zu Zürich geändert in 1920.  
+- **Lenin** war ein politik, Führer der kommunistischen Partei, hat zu Zürich im 1916 geändert.
+
+- **Albert Einstein**, er hat in zürich gelebt in 1896 mit seine Frau Mileva Marić , er hat nach Zürich gelebt weil er an der eidgenössische polytechnische Schulen studiert hat.
+
+---
+
+
+# **Merci vilmal!**
+
+![](assets/img/swisscostume.jpg)
+
+
+
+
+
+
+---
+ 
+- **Bircher Muesli:**
+Birchermüsli oder einfach Müsli wurde 1900 von Dr. Max Bircher-Benner gegründet. Es war das Rezept für eine gesunde Ernährung. Das Müsli ist heute auf der ganzen Welt sehr beliebt und hat zahlreiche Variationen. Die Zutaten des Originalrezepts sind Hafer, Wasser, geriebener Apfel, Nüsse, Zitronensaft und Kondensmilch.
+
+---
+
+![](muesli.jpg)
+
+---
+ 
+- **Tirggel:**
+Tirggel ist ein hartes und dünnes Gebäck aus Honig, Ingwer, Anis, Koriander, Rosenwasser und Mehl. Die Oberfläche ist mit historischen Motiven aus der Vergangenheit von Zürich verziert. Es ist sehr beliebt während der Weihnachtszeit.
+
+![](tirgell.jpg)
+
+
+---
+
+
+ 
+- **Straumann Hüppen:**
+Hüppen sind köstliche Waffelröllchen, die oft mit Schokoladencreme gefüllt sind.
+
+<center>
+
+
+![150%](huppen.jpg)
+
+</center>
+
+
+---
+ 
+- **Wiedikerli:**
+Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entworfen. Für die Originalversion stellt die Metzgerei mageres Schweinefleisch mit gebratenen Zwiebeln, Knoblauch und Petersilie her.
+
+---
+
+<center>
+
+![](wiedkerli.jpg)
+
+
+</center>
+
+---
+
+- *Wie spricht man Deutsch  in dieser Stadt? Typischen Wörter*
+
+#### Beispiele:
+
+- Grüezi = Guten Tag
+- Merci= Danke
+- Adie= tschüss
+- ein Fötzeli= ein kleines Stück Papier
+
+
+---
+
+
+- *Haben berühmte Personen schon in dieser Stadt gelebt? Wenn ja, wer?*
+
+- **Paul Thomas Mann** ist ein Romantik  Schriftsteller, er sind an 1875 geboren und in 1936 hat er zu Zürich geändert. Er hat in Zürich von 1936   nach 1955 gelebt. Thomas war wichtig für Literatur weil er ein nobel prize gewonnen hat. 
+
+- **James Joyce** war auch ein Schriftsteller, er war in 1882 geboren in Dublin, er hat zu Zürich geändert in 1920.  
+- **Lenin** war ein politik, Führer der kommunistischen Partei, hat zu Zürich im 1916 geändert.
+
+- **Albert Einstein**, er hat in zürich gelebt in 1896 mit seine Frau Mileva Marić , er hat nach Zürich gelebt weil er an der eidgenössische polytechnische Schulen studiert hat.
+
+---
+<center>
+
+# **Merci vilmal!**
+
+![](swisscostume.jpg)
+
+
  
 ---
+
+
+- **Rathaus** - Das Rathausgebäude befindet sich am linken Ufer des Flusses in der Altstadt.
+
+
+- **Zürichsee** - Rund um den See gibt es eine tolle Spielwiese. Dort kann man laufen und skaten. Auf dem See die Leute können auch eine Bootsfahrt machen.
+
+
+- **Zürich westen** - Das ist ein sehr schön und cult Nachbarschaft, mit viel Kunst, Kultur und moderner Architektur. 
+
+
+---?color=#D3D3D3
+
+- *Was sind die typischen Spezialitäten dieser Stadt?*
+
+---
+
+## Die Schweizer Küche
+
+Die Schweizer Küche wird von Nachbarländern wie Frankreich, Deutschland, Italien, Österreich und Liechtenstein beeinflusst. Die Gerichte variieren je nach der in der Region gesprochenen Sprache. Jedoch, einige Gerichte sind in der ganzen Schweiz beliebt, wie Käsefondue und Rösti. Andere berühmte produkte sind Schokolade und Käse.
+
+---
+
+
+### Zürich
+
+Zürich bietet ausgezeichnete gastronomische Möglichkeiten. Es gibt viele Restaurants. 17 Restaurants hat Michelin-Sterne. Der Michelin-Stern ist die wichtigste und traditionellste Auszeichnung, die einem Restaurant verliehen wird.
+
+
+---
+
+---
+
+
+#### Typischen Spezialitäten
+
+In Zürich werden verschiedene typischen spezialitäten gefindet. Die beliebtest sind:
+ 
+- **Zürich Geschnetzeltes:**
+Dieses Gericht wird aus dünn geschnittenen Streifen gebratenen Kalbfleischs in einer köstlichen cremigen Sauce zubereitet. Es wird normalerweise mit Rösti serviert.
+
+---  
+
+![](geschnet.jpg)
+
+
+
+
+---
+ 
+- **Bircher Muesli:**
+Birchermüsli oder einfach Müsli wurde 1900 von Dr. Max Bircher-Benner gegründet. Es war das Rezept für eine gesunde Ernährung. Das Müsli ist heute auf der ganzen Welt sehr beliebt und hat zahlreiche Variationen. Die Zutaten des Originalrezepts sind Hafer, Wasser, geriebener Apfel, Nüsse, Zitronensaft und Kondensmilch.
+
+---
+
+![](muesli.jpg)
+
+---
+ 
+- **Tirggel:**
+Tirggel ist ein hartes und dünnes Gebäck aus Honig, Ingwer, Anis, Koriander, Rosenwasser und Mehl. Die Oberfläche ist mit historischen Motiven aus der Vergangenheit von Zürich verziert. Es ist sehr beliebt während der Weihnachtszeit.
+
+![](tirgell.jpg)
+
+
+---
+
+
+ 
+- **Straumann Hüppen:**
+Hüppen sind köstliche Waffelröllchen, die oft mit Schokoladencreme gefüllt sind.
+
+<center>
+
+
+![150%](huppen.jpg)
+
+</center>
+
+
+---
+ 
+- **Wiedikerli:**
+Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entworfen. Für die Originalversion stellt die Metzgerei mageres Schweinefleisch mit gebratenen Zwiebeln, Knoblauch und Petersilie her.
+
+---
+
+<center>
+
+![](wiedkerli.jpg)
+
+
+</center>
+
+---
+
+- *Wie spricht man Deutsch  in dieser Stadt? Typischen Wörter*
+
+#### Beispiele:
+
+- Grüezi = Guten Tag
+- Merci= Danke
+- Adie= tschüss
+- ein Fötzeli= ein kleines Stück Papier
+
+
+---
+
+
+- *Haben berühmte Personen schon in dieser Stadt gelebt? Wenn ja, wer?*
+
+- **Paul Thomas Mann** ist ein Romantik  Schriftsteller, er sind an 1875 geboren und in 1936 hat er zu Zürich geändert. Er hat in Zürich von 1936   nach 1955 gelebt. Thomas war wichtig für Literatur weil er ein nobel prize gewonnen hat. 
+
+- **James Joyce** war auch ein Schriftsteller, er war in 1882 geboren in Dublin, er hat zu Zürich geändert in 1920.  
+- **Lenin** war ein politik, Führer der kommunistischen Partei, hat zu Zürich im 1916 geändert.
+
+- **Albert Einstein**, er hat in zürich gelebt in 1896 mit seine Frau Mileva Marić , er hat nach Zürich gelebt weil er an der eidgenössische polytechnische Schulen studiert hat.
+
+---
+<center>
+
+# **Merci vilmal!**
+
+![](swisscostume.jpg)
+
+
 
 
 @title[Customize Slide Layout]
