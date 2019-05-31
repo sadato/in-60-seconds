@@ -106,7 +106,7 @@ Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Sta
  
 ---
 
-#Typischen Spezialitäten
+# Typischen Spezialitäten
 
 ---
 
