@@ -101,15 +101,15 @@ Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Sta
 
 
 
- @img[shadow](assets/img/limmat.jpg)
+ @img[](assets/img/limmat.jpg)
  
  
- ---
-
+---
 
 #Typischen Spezialitäten
 
 ---
+
 
 In Zürich werden verschiedene typischen spezialitäten gefindet. Die beliebtest sind:
  
