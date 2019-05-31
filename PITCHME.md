@@ -20,7 +20,7 @@
 @snap[north]
 ## Introduktion
 
-@snap[west-south- span 400]
+
 
 - *In welchem Land liegt diese Stadt?*
 
