@@ -149,10 +149,9 @@ Hüppen sind köstliche Waffelröllchen, die oft mit Schokoladencreme gefüllt s
 
 ---
 
-
-
-
 ![](assets/img/huppen.jpg)
+
+
 
 
 
