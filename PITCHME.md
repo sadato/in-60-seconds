@@ -118,7 +118,7 @@ Dieses Gericht wird aus dünn geschnittenen Streifen gebratenen Kalbfleischs in 
 
 ---
 
-![](assets/img/muesli.jpg)
+![](assets/img/geschnet.jpg)
 
 
 ---
