@@ -82,6 +82,16 @@ Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Sta
 
 ---
 
+- **Rietberg** - In diesem Museum gibt es viele Kunstwerke aus Afrika, Asien, Indien, China und Japan.
+
+
+- **Fraumünster** - Diesem Kierch für die entworfenen Glasfenster von Marc Chagall bekannt ist. 
+
+
+- **Großmünster** - Das ist die Hauptkirche in Zürich. Menschen können die 187 Stufen der Türme besteigen und einen Panoramablick auf die Stadt haben.
+
+---
+
 
 @title[Customize Slide Layout]
 
