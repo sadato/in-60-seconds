@@ -18,7 +18,7 @@
 
 ---?color=#D3D3D3
 
-## Introduktion
+# Introduktion
 
 ---
 
@@ -57,7 +57,7 @@ Die Stadt Zürich ist mit 409'241 Einwohnern die grösste Stadt der Schweiz mit 
 ---
 
   
-## Regierung
+# Regierung
 
 
 @img[shadow](assets/img/kantonsrat.jpeg)
@@ -74,6 +74,10 @@ Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Sta
 
 - *Welche Plätze, Parke und Denkmäler sind wichtig zu besichtigen und warum?*
 
+
+---
+
+# Plätze
 
 ---
 
