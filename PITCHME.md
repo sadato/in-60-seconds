@@ -92,6 +92,14 @@ Die Exekutive der Stadt Zürich heißt Stadtrat und hat neun Mitglieder. Die Sta
 
 ---
 
+- **Fluss Limmat** - Die Menschen können schwimmen und Sportarten wie Kajak fahren in diesem Fluss. Sie können auch eine Bootsfahrt machen.
+
+
+
+ @img[shadow](assets/img/limmat.jpg)
+ 
+---
+
 
 @title[Customize Slide Layout]
 
