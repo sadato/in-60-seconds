@@ -111,18 +111,6 @@ Dieses Gericht wird aus dünn geschnittenen Streifen gebratenen Kalbfleischs in 
 
 ---
 
- 
-
-
-#### Typischen Spezialitäten
-
-In Zürich werden verschiedene typischen spezialitäten gefindet. Die beliebtest sind:
- 
-- **Zürich Geschnetzeltes:**
-Dieses Gericht wird aus dünn geschnittenen Streifen gebratenen Kalbfleischs in einer köstlichen cremigen Sauce zubereitet. Es wird normalerweise mit Rösti serviert.
-
----
-
   
 ![](assets/img/geschnet.jpg)
 
@@ -142,6 +130,8 @@ Birchermüsli oder einfach Müsli wurde 1900 von Dr. Max Bircher-Benner gegründ
 - **Tirggel:**
 Tirggel ist ein hartes und dünnes Gebäck aus Honig, Ingwer, Anis, Koriander, Rosenwasser und Mehl. Die Oberfläche ist mit historischen Motiven aus der Vergangenheit von Zürich verziert. Es ist sehr beliebt während der Weihnachtszeit.
 
+---
+
 ![](assets/img/tirgell.jpg)
 
 
@@ -151,6 +141,8 @@ Tirggel ist ein hartes und dünnes Gebäck aus Honig, Ingwer, Anis, Koriander, R
  
 - **Straumann Hüppen:**
 Hüppen sind köstliche Waffelröllchen, die oft mit Schokoladencreme gefüllt sind.
+
+---
 
 
 
@@ -169,9 +161,6 @@ Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entwo
 
 
 ![](assets/img/wiedkerli.jpg)
-
-
-
 
 
 ---?color=#D3D3D3
@@ -199,6 +188,9 @@ Die Wurst aus dem Viertel Wiedikon. Es wurde vom Metzgermeister Urs Keller entwo
 - **Paul Thomas Mann** ist ein Romantik  Schriftsteller, er sind an 1875 geboren und in 1936 hat er zu Zürich geändert. Er hat in Zürich von 1936   nach 1955 gelebt. Thomas war wichtig für Literatur weil er ein nobel prize gewonnen hat. 
 
 - **James Joyce** war auch ein Schriftsteller, er war in 1882 geboren in Dublin, er hat zu Zürich geändert in 1920.  
+
+---
+
 - **Lenin** war ein politik, Führer der kommunistischen Partei, hat zu Zürich im 1916 geändert.
 
 - **Albert Einstein**, er hat in zürich gelebt in 1896 mit seine Frau Mileva Marić , er hat nach Zürich gelebt weil er an der eidgenössische polytechnische Schulen studiert hat.
